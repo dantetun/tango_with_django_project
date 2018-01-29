@@ -37,21 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="populate_- rango.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="populate_- rango.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../populate_- rango.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
+            <state relative-caret-position="433">
               <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tests_chapter5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../rango_tests/tests_chapter5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -69,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
@@ -138,8 +128,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="867" />
-    <option name="y" value="23" />
+    <option name="x" value="1023" />
+    <option name="y" value="4" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -430,7 +420,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="867" y="23" width="974" height="1047" extended-state="0" />
+    <frame x="1023" y="4" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15762004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -799,14 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../populate_- rango.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -814,6 +796,14 @@
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../populate_- rango.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
