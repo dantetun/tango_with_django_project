@@ -32,9 +32,18 @@ def populate():
          "url":"http://www.tangowithdjango.com/", "views":23}
     ]
 
+    other_pages = [
+        {"title":"Bottle",
+         "url":"http://bottlepy.org/docs/dev/", "views":11
+        },
+        {"title":"Flask",
+         "url":"http://flask.pocoo.org","views":133}
+    ]
+
     cats = {
         "Python":{"pages":python_pages, "likes":64, "views":128},
         "Django":{"pages":django_pages,"likes":32,"views":64},
+        "Other Frameworks": {"pages":other_pages,"likes":22,"views":123}
 
     }
 
