@@ -41,9 +41,9 @@ def populate():
     ]
 
     cats = {
-        "Python":{"pages":python_pages, "likes":64, "views":128},
-        "Django":{"pages":django_pages,"likes":32,"views":64},
-        "Other Frameworks": {"pages":other_pages,"likes":22,"views":123}
+        "Python":{"pages":python_pages, "views":128,"likes":64, },
+        "Django":{"pages":django_pages,"views":64,"likes":32,},
+        "Other Frameworks": {"pages":other_pages,"views":123,"likes":22,}
 
     }
 
