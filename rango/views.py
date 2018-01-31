@@ -19,7 +19,9 @@ def index(request):
 # Create your views here.
 
 def about(request):
-    return render(request,'rango/about.html')
+    print(request)
+    print(request.user)
+    return render(request,'rango/about.html',{})
 
 def show_category(request, category_name_slug):
     context_dict = {}
