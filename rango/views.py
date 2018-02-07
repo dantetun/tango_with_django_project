@@ -137,7 +137,7 @@ def user_login(request):
         else:
             print("Invalid login details: {0}, {1}".format(username,password))
 
-            return HttpResponse("Incorrect username and/or password" )
+            return HttpResponse("Invalid login details supplied." )
     else:
         return render(request,'rango/login.html',{})
 
